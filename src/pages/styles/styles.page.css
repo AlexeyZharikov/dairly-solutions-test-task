@@ -1,0 +1,43 @@
+.registaration_form,
+.login_form,
+.mainMsg{
+  max-width: 400px;
+  width: 100%;
+  margin: 15px auto 0;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  border: 1px solid green;
+  border-radius: 10px;
+}
+.login, 
+.password, 
+.submitBtn{
+  margin: 7.5px 0;
+}
+.login, 
+.password {
+  height: 19px;
+}
+.submitBtn{
+  background-color: #71f571;
+  border:1px solid #71f571;
+  padding: 8px 0;
+  color: #000;
+  border-radius: 7px;
+  font-weight: 700;
+}
+.goToLogin{
+  text-decoration: none;
+  margin: 10px auto 0;
+}
+.login_message{
+  margin: 5px auto;
+}
+.mainMsg{
+  margin: 5px auto;
+}
+.goToLogin p{
+  display: inline;
+  text-decoration: underline;
+}
