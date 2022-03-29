@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dairly-solutions-test-task/static/css/main.8b8d339e.css",
+    "main.css": "/dairly-solutions-test-task/static/css/main.180b3338.css",
     "main.js": "/dairly-solutions-test-task/static/js/main.e08065ef.js",
     "index.html": "/dairly-solutions-test-task/index.html",
-    "main.8b8d339e.css.map": "/dairly-solutions-test-task/static/css/main.8b8d339e.css.map",
+    "main.180b3338.css.map": "/dairly-solutions-test-task/static/css/main.180b3338.css.map",
     "main.e08065ef.js.map": "/dairly-solutions-test-task/static/js/main.e08065ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b8d339e.css",
+    "static/css/main.180b3338.css",
     "static/js/main.e08065ef.js"
   ]
 }
